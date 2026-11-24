@@ -3,7 +3,7 @@
 **University:** University of Petroleum and Energy Studies (UPES)  
 **Program:** B.Tech CSE — Semester I  
 **Course:** Programming in C (`PRC1001`)  
-**Author:** Arnav Srivastava (`590042233`)
+**Author:** Arnav Srivastava (`590032514`)
 
 ## Overview
 
